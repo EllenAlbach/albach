@@ -73,7 +73,7 @@ const perguntas = [
 ];
 
 
-let atual = 0;
+let atual = 2;
 let perguntaAtual;
 let historiaFinal = "";
 
